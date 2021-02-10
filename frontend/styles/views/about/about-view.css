@@ -1,3 +1,8 @@
 .about-view {
   display: block;
 }
+
+.hacker-image {
+  height: 300px;
+  object-fit: cover;
+}
